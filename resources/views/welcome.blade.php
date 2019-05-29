@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html style="font-size: 41.9688px;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
-    <title>工商财税</title>
+    <title>大好时光</title>
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;" name="viewport">
     <!--当网站添加到主屏幕快速启动方式，可隐藏地址栏，仅针对ios的safari-->
     <!-- ios7.0版本以后，safari上已看不到效果 -->
@@ -17,6 +17,15 @@
     <meta name="msapplication-tap-highlight" content="no">
     <meta name="keywords" content="">
     <meta name="description" content="">
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?218debd26c7d122ccd50ae6da6de753c";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
     <script language="javascript" src="http://ddt.zoosnet.net/JS/LsJS.aspx?siteid=DDT63642922&amp;float=1&amp;lng=cn"></script>
     <script src="./files/jquery-1.7.2.min.js"></script>
     <script type="text/javascript" src="./files/swiper.js"></script>
@@ -335,27 +344,6 @@
 <!--手机核名-->
 <h3 style="text-align: center;font-weight: bold;font-size: 1.54rem;color: #333333;padding: 0 0 .68rem; margin-top: 1.1rem;">人社局助力0元注册公司</h3>
 <div style="width: 10%; margin-left: 45%; background-color: rgb(87, 169, 251); height:0.2rem;"></div>
-<!--<p style="font-size: 1.02rem; color: #004c95; padding: 0 0; text-align: center; margin-top: 0.5rem;">(请保证填写信息的准确性，避免申请名额失败)</p>
- <form id="messagePost25">
-
-
-        <input type="text" id="12405"  name="msg_username" placeholder="请输入您的公司名称" style="width: 90%;height: 4rem;padding: 0 22px;color: #6fb7ff;font-size: 1.15rem;box-sizing: border-box;background: #ffffff;background: url(images/inputbg.png) no-repeat left center;background-size: 100% 100%;border: none; margin-top: 1rem; margin-left: 5%;">
-
-
-
-        <input type="text"  id="12406" name="msg_userphone" placeholder="请输入您的电话号码" style="width: 90%;height: 4rem;padding: 0 22px;color: #6fb7ff;font-size: 1.15rem;box-sizing: border-box;background: #ffffff;background: url(images/inputbg.png) no-repeat left center;background-size: 100% 100%;border: none; margin-top: 1rem; margin-left: 5%;">
-
-
-
-       <input type="button" name="Submit" onClick="$.msgSubmit('messagePost25');LeaveWord($('#12405').val(),$('#12406').val());" value="立即申请名额"  style="width: 90%; height: 4rem;
-line-height: 4rem;margin: 0 auto;border-radius: 2.14rem;font-size: 1.54rem;color: #004c95;font-weight: 300;box-shadow: 4px 8px 20px rgba(109, 185, 254, 0.45);background: -webkit-linear-gradient(left,#1987fc,#a4ffdc);background: -moz-linear-gradient(left,#1987fc,#a4ffdc);background: -o-linear-gradient(left,#1987fc,#a4ffdc); margin-left:5%; margin-top:1rem;">
-</form>-->
-<!---->
-<!--<marquee direction=up scrollamount=1 scrolldelay=0  behavior="scroll" style="color: #2a93fa;width: 80%; margin-left: 10%; height: 1rem; line-height: 1.5rem; font-size: 1rem; margin-top: 1rem;">
-   李女士&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;广州1369169**** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;申请成功<br>
- 诚女士&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;广州1583782**** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;申请成功<br>
- 张先生&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;广州1583217**** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;申请成功<br>
- 诚女士&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;广州1765877**** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;申请成功</marquee>-->
 
 <a href="javascript:void(0);" ><div style=" margin-bottom: 1rem;text-align: center;width: 60%; height:3rem;
 		line-height: 3rem; margin: 0 auto;border-radius: 2.14rem;font-size: 1.54rem;color: #004c95;font-weight: 300;box-shadow: 4px 8px 20px rgba(109, 185, 254, 0.45);background: -webkit-linear-gradient(left,#1987fc,#a4ffdc);background: -moz-linear-gradient(left,#1987fc,#a4ffdc);background: -o-linear-gradient(left,#1987fc,#a4ffdc); margin-left:5%; margin-top:1rem; margin-left: 20%; ">点击领取</div></a>
