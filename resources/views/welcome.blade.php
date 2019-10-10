@@ -17,16 +17,17 @@
     <meta name="msapplication-tap-highlight" content="no">
     <meta name="keywords" content="">
     <meta name="description" content="">
-    <script>
-        var _hmt = _hmt || [];
-        (function() {
-            var hm = document.createElement("script");
-            hm.src = "https://hm.baidu.com/hm.js?776cc635d13a41f0f30ab5e417ddb3a1";
-            var s = document.getElementsByTagName("script")[0];
-            s.parentNode.insertBefore(hm, s);
-        })();
+   <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?9aa5107e0c043fdcfb3112036ee51551";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+    })();
     </script>
 
+    <script language="javascript" src="http://p.qiao.baidu.com/cps/chat?siteId=13982023&userId=26736097"></script>
     <script language="javascript" src="http://ddt.zoosnet.net/JS/LsJS.aspx?siteid=DDT63642922&amp;float=1&amp;lng=cn"></script>
     <script src="./files/jquery-1.7.2.min.js"></script>
     <script type="text/javascript" src="./files/swiper.js"></script>
